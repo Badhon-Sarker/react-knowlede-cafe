@@ -1,0 +1,52 @@
+[
+    {
+    "id": 1,
+    "cover": "https://ibb.co/4dLyhw7",
+    "title": "The Art of Time Travel",
+    "author": "Maxwell Black",
+    "author_img": "https://ibb.co/MDtf091",
+    "posted_date": "2024-03-13",
+    "reading_time": 20,
+    "hashtags": ["time_travel", "science_fiction", "adventure"]
+    },
+    {
+    "id": 2,
+    "cover": "https://ibb.co/b2cQwKH",
+    "title": "The Great Escape",
+    "author": "Isabella White",
+    "author_img": "https://ibb.co/x8Hpg4X",
+    "posted_date": "2024-03-12",
+    "reading_time": 25,
+    "hashtags": ["escape", "thriller", "mystery"]
+    },
+    {
+    "id": 3,
+    "cover": "https://ibb.co/0BpqY8K",
+    "title": "The Secret Garden",
+    "author": "Oliver Green",
+    "author_img": "https://ibb.co/MDtf091",
+    "posted_date": "2024-03-11",
+    "reading_time": 30,
+    "hashtags": ["classics", "nature", "children"]
+    },
+    {
+    "id": 4,
+    "cover": "https://ibb.co/0BpqY8K",
+    "title": "Cooking with Flavor",
+    "author": "Sophia Brown",
+    "author_img": "https://ibb.co/x8Hpg4X",
+    "posted_date": "2024-03-10",
+    "reading_time": 35,
+    "hashtags": ["cooking", "recipes", "flavor"]
+    },
+    {
+    "id": 5,
+    "cover": "https://ibb.co/d0Bg9vm",
+    "title": "The Lost Treasure",
+    "author": "Nathan Gray",
+    "author_img": "https://ibb.co/MDtf091",
+    "posted_date": "2024-03-09",
+    "reading_time": 40,
+    "hashtags": ["treasure", "adventure", "pirates"]
+    }
+    ]
